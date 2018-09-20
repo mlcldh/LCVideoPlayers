@@ -1,6 +1,0 @@
-framework module Pods_LCVideoPlayers {
-  umbrella header "Pods-LCVideoPlayers-umbrella.h"
-
-  export *
-  module * { export * }
-}

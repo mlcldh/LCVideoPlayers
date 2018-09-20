@@ -1,6 +1,0 @@
-framework module LCVideoPlayers {
-  umbrella header "LCVideoPlayers-umbrella.h"
-
-  export *
-  module * { export * }
-}
