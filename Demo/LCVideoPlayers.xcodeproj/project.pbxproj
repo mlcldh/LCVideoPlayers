@@ -14,6 +14,7 @@
 		8DD820DD21534FD600C7A151 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DD820DC21534FD600C7A151 /* Assets.xcassets */; };
 		8DD820E021534FD600C7A151 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DD820DE21534FD600C7A151 /* LaunchScreen.storyboard */; };
 		8DD820E321534FD600C7A151 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DD820E221534FD600C7A151 /* main.m */; };
+		8DD820EB2153750700C7A151 /* LCARCPlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DD820EA2153750700C7A151 /* LCARCPlayerViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		8DD820DF21534FD600C7A151 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8DD820E121534FD600C7A151 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8DD820E221534FD600C7A151 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8DD820E92153750700C7A151 /* LCARCPlayerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LCARCPlayerViewController.h; sourceTree = "<group>"; };
+		8DD820EA2153750700C7A151 /* LCARCPlayerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LCARCPlayerViewController.m; sourceTree = "<group>"; };
 		8E3C17A1307B12EE188186BE /* Pods-LCVideoPlayers.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LCVideoPlayers.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LCVideoPlayers/Pods-LCVideoPlayers.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -77,6 +80,8 @@
 				8DD820D421534FD600C7A151 /* AppDelegate.m */,
 				8DD820D621534FD600C7A151 /* ViewController.h */,
 				8DD820D721534FD600C7A151 /* ViewController.m */,
+				8DD820E92153750700C7A151 /* LCARCPlayerViewController.h */,
+				8DD820EA2153750700C7A151 /* LCARCPlayerViewController.m */,
 				8DD820D921534FD600C7A151 /* Main.storyboard */,
 				8DD820DC21534FD600C7A151 /* Assets.xcassets */,
 				8DD820DE21534FD600C7A151 /* LaunchScreen.storyboard */,
@@ -212,6 +217,7 @@
 				8DD820D821534FD600C7A151 /* ViewController.m in Sources */,
 				8DD820E321534FD600C7A151 /* main.m in Sources */,
 				8DD820D521534FD600C7A151 /* AppDelegate.m in Sources */,
+				8DD820EB2153750700C7A151 /* LCARCPlayerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -17,13 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = '视频播放器组件，包括几个视频sdk'
+  s.description      = '视频播放器组件，包括几个视频SDK'
 
   s.homepage         = 'https://github.com/mlcldh/'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'menglingchao' => '1228225993@qq.com' }
-  s.source           = { :git => 'https://github.com/mlcldh/LCLive.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/mlcldh/LCVideoPlayers.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
     s.ios.deployment_target = '8.0'
